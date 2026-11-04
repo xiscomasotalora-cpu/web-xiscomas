@@ -1,0 +1,5 @@
+* 3f0713e README.md
+* ce57c31 Pruebas
+* 6535251 tercer canvi
+* 6d2e5d0 segon canvi
+* 08a7b6f Primer canvi
